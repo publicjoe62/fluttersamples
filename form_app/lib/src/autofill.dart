@@ -42,7 +42,7 @@ class _AutofillDemoState extends State<AutofillDemo> {
                     TextFormField(
                       textInputAction: TextInputAction.next,
                       decoration: const InputDecoration(
-                        hintText: 'Doe',
+                        hintText: 'Doe1',
                         labelText: 'Last Name',
                       ),
                       autofillHints: const [AutofillHints.familyName],
